@@ -10,4 +10,5 @@ Dunder or magic methods in Python are the methods having two prefix and suffix u
 Visit the following resources to learn more:
 
 - [@article@Method vs Function in Python](https://www.tutorialspoint.com/difference-between-method-and-function-in-python)
+- [@article@A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 - [@article@Python - Magic or Dunder Methods](https://www.tutorialsteacher.com/python/magic-methods-in-python)
